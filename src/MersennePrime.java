@@ -1,5 +1,4 @@
 /* Harout Ter-Papyan
- * Comp 182
  * A program that finds and displays all
  *  Mersenne primes with p <= 31.
  */

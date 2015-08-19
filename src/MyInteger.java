@@ -1,5 +1,4 @@
 /* Harout Ter-Papyan
- * Comp 182
  * A program that checks if an integer is even, odd, or prime.
  *  Can also convert a string or array of numeric characters 
  *   into an int value.

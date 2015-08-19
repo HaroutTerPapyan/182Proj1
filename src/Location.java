@@ -1,5 +1,4 @@
 /* Harout Ter-Papyan
- * Comp 182
  * A program that returns the location of the 
  *  largest element in a two-dimensional array
  */

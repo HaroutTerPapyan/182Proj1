@@ -1,5 +1,4 @@
 /* Harout Ter-Papyan
- * Comp 182
  * A program that displays the first 100 emirps
  */
 

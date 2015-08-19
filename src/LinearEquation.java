@@ -1,5 +1,4 @@
 /* Harout Ter-Papyan
- * Comp 182
  * A program for a 2x2 system of linear equations
  */
 

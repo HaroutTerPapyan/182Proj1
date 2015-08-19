@@ -1,5 +1,4 @@
 /* Harout Ter-Papyan
- * Comp 182
  * A program that capitalizes the first letter
  *  of each word in a string
  */
